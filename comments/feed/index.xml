@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Bình luận cho GAMEZONE	</title>
-	<atom:link href="http://tuan368.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://tuan368.github.io/mywordpress</link>
+	<atom:link href="https://tuan368.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tuan368.github.io/mywordpress</link>
 	<description></description>
 	<lastBuildDate>Tue, 13 Sep 2022 07:55:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
